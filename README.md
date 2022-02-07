@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jagabanofbusiness
-- 👀 I’m interested in Php/Laravel/Wordpress, NodeJs, React, Solidity and DevOps
+- 👀 I’m interested in Solidity, Javascript, NodeJs, React, Php/Wordpress and DevOps
 - 🌱 I’m currently learning Solidity in an advanced level
 - 💞️ I’m looking to collaborate on Open source Blockchain projects, Wordpress plugin projects, NodeJs projects
 - 📫 How to reach me https://twitter.com/jagabanbusiness/
